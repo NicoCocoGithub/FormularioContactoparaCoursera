@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FormularioContactoCoursera</string>
+    <string name="nombre_completo">Nombre Completo</string>
+    <string name="telefono">Número Telefonico</string>
+    <string name="email">Correo Electronico</string>
+    <string name="descripcion_contacto"> Descripción Contacto</string>
+    <string name="boton_siguiente"> Siguiente</string>
+
+    <string name="te_olvidaste_nombre"> No te olvides del Nombre</string>
+    <string name="te_olvidaste_email"> No te olvides del Correo Electronico</string>
+       <string name="te_olvidaste_telefono"> No te olvides del Numero Telefonico</string>
+
+    <string name="confirmar_datos"> Confirmar Datos</string>
+    <string name="editar_datos"> Editar Datos</string>
+
+    <string name="fecha_de_nacimiento"> Fecha de Nacimiento </string>
+
+</resources>
